@@ -1,0 +1,9 @@
+﻿  소스.c
+C:\Users\2023user\Desktop\게임제작과제_12주차_20231358\소스.c(38,20): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\2023user\Desktop\게임제작과제_12주차_20231358\소스.c(39,42): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\2023user\Desktop\게임제작과제_12주차_20231358\소스.c(81,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\2023user\Desktop\게임제작과제_12주차_20231358\소스.c(82,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\2023user\Desktop\게임제작과제_12주차_20231358\소스.c(118,43): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\2023user\Desktop\게임제작과제_12주차_20231358\소스.c(119,45): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\2023user\Desktop\게임제작과제_12주차_20231358\소스.c(120,45): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  게임제작과제_12주차_20231358.vcxproj -> C:\Users\2023user\Desktop\게임제작과제_12주차_20231358\x64\Debug\게임제작과제_12주차_20231358.exe
